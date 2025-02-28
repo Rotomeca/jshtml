@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Use js to describe html",
   "main": "JsHtml.js",
-  "scripts": {
-    "test": "no"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rotomeca/jshtml.git"
