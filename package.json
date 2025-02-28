@@ -1,0 +1,25 @@
+{
+  "name": "@rotomeca/jshtml",
+  "version": "1.0.0",
+  "description": "Use js to describe html",
+  "main": "JsHtml.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotomeca/jshtml.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Rotomeca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rotomeca/jshtml/issues"
+  },
+  "homepage": "https://github.com/Rotomeca/jshtml#readme",
+  "dependencies": {
+    "@rotomeca/event": "^1.0.0"
+  }
+}
